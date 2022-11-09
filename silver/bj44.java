@@ -1,4 +1,4 @@
-public class BJ5555 {
+public class bj44 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
