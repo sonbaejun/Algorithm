@@ -1,3 +1,4 @@
+/* BJ1966(실버3) */
 const fs = require("fs");
 let input = fs.readFileSync("/dev/stdin").toString();
 input = input.split('\n');
