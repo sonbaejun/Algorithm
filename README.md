@@ -1,17 +1,17 @@
-# Algorithm
+# 🚀 Algorithm
 
-### Langauge
+### ⌨️ Langauge
 
 - javascript, java
 
-## baekjoon
+## 🖥️ baekjoon
 
-- ## gold
+- ## 🟧 gold
 
   - ### gold5
   - [[1015]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/gold/gold5/BJ1011.java)
 
-- ## silver
+- ## ⬜ silver
   - ### silver2
     [[16953]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver2/BJ16953.java)
     [[20364]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver2/BJ20364.java)
@@ -34,5 +34,5 @@
     [[9625]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver5/BJ9625.java)
     
     
-## programmers
+## 📜 programmers
 
