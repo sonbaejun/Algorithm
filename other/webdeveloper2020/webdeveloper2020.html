@@ -244,6 +244,7 @@
             $('#cartPrice').html(`최종가격 : ${price}`);
         }
 
+        /* 장바구니에서 수량 추가버튼 클릭 시 */
         $(document).on('click', '#plus', function () {
             let price = 0;
             let index = $(this).siblings("h1").html();
@@ -268,6 +269,7 @@
             $('#cartPrice').html(`최종가격 : ${price}`);
         })
 
+        /* 장바구니에서 수량 감소버튼 클릭 시 */
         $(document).on('click', '#minus', function () {
             let price = 0;
             let index = $(this).siblings("h1").html();
@@ -294,11 +296,12 @@
             $('#cartPrice').html(`최종가격 : ${price}`);
         })
 
-
+        /* 장바구니 구매하기 버튼 클릭 시 */
         $('#buying').on('click', function () {
             $('#inputModal').modal('show');
         });
 
+        /* 영수증 이미지 출력 */
         $('#done').on('click', function () {
             let yStart = 20;
             let priceAll = 0;
