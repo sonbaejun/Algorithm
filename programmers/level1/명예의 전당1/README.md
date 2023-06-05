@@ -1,5 +1,5 @@
 <h3 align="center"> 
-    📢 프로그래머스(신고 결과 받기) : https://school.programmers.co.kr/learn/courses/30/lessons/138477
+    📢 프로그래머스(명예의 전당1) : https://school.programmers.co.kr/learn/courses/30/lessons/138477
 </h3>
 
 <br>
