@@ -43,3 +43,7 @@
 [[추억 점수]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98)
 <br>
 [[로또의 최저 순위와 최고 순위]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84)
+[[크레인 인형 뽑기 게임(2019 카카오 개발자 겨울 인턴십)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%20%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
+<br>
+[[키패드 누르기(2020 카카오 인턴십)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)
+<br>
