@@ -1,5 +1,5 @@
 <h3 align="center"> 
-    📢 프로그래머스(로또의 최고 순위와 최저 순위(2021 Dev-Matching: 웹 백엔드 개발자)) : https://school.programmers.co.kr/learn/courses/30/lessons/77484
+    📢 프로그래머스(키패드 누르기(2020 카카오 인턴십)) : https://school.programmers.co.kr/learn/courses/30/lessons/77484
 </h3>
 
 <br>
