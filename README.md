@@ -55,3 +55,9 @@
 <br>
 [[신규 아이디 추천(2021 KAKAO BLIND RECRUITMENT)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
 <br>
+[[부족한 금액 계산하기(위클리 챌린지)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0)
+<br>
+[[체육복]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+<br>
+[[최소 직사각형]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+<br>
