@@ -61,3 +61,7 @@
 <br>
 [[최소 직사각형]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
 <br>
+[[비밀 지도(2018 KAKAO BLIND RECRUITMENT)](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%B9%84%EB%B0%80%20%EC%A7%80%EB%8F%84)
+<br>
+[[실패율(2019 KAKAO BLIND RECRUITMENT)](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
+<br>
