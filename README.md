@@ -73,3 +73,6 @@
 <br>
 [[약수의 개수와 덧셈(월간 코드 챌린지2)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
 <br>
+
+### level 2
+[[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
