@@ -4,7 +4,7 @@ function solution(cacheSize, cities) {
     /* 대소문자 구분 안하므로 모두 대문자로 변경 */
     cities = cities.map(e => e.toUpperCase())
     /* 캐시사이즈가 0일 경우 예외처리 */
-    if (cacheSize == 0) answer = cities.length * 5;
+    if (cacheSize == 0) return answer = cities.length * 5;
     cities.map(e => {
         let index = cache.indexOf(e); // cache hit or miss 판단
         /* hit이면 순서갱신, miss면 캐시가 full인지 아닌지에 따라 갱신 */
