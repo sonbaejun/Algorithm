@@ -79,3 +79,5 @@
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <br>
 [[k진수에서 소수 구하기(2022 KAKAO BLIND RECRUITMENT)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+<br>
+[[캐시]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%BA%90%EC%8B%9C)
