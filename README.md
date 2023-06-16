@@ -81,3 +81,5 @@
 [[k진수에서 소수 구하기(2022 KAKAO BLIND RECRUITMENT)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 <br>
 [[캐시]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%BA%90%EC%8B%9C)
+<br>
+[[n진수 게임]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84)
