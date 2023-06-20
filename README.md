@@ -87,3 +87,5 @@
 [[튜플]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%ED%8A%9C%ED%94%8C)
 <br>
 [[압축]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%95%95%EC%B6%95)
+<br>
+[[짝지어 제거하기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
