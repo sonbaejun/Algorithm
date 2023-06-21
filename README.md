@@ -74,6 +74,9 @@
 <br>
 [[약수의 개수와 덧셈(월간 코드 챌린지2)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
 <br>
+[[성격 유형 검사하기(2022 KAKAO TECH INTERNSHIP)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0
+)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
