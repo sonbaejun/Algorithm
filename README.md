@@ -77,6 +77,8 @@
 [[성격 유형 검사하기(2022 KAKAO TECH INTERNSHIP)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0
 )
 <br>
+[[가운데 글자 가져오기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
