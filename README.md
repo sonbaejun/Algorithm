@@ -79,6 +79,10 @@
 <br>
 [[가운데 글자 가져오기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 <br>
+[[k번째수]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/k%EB%B2%88%EC%A7%B8%EC%88%98)
+<br>
+[[짝수와 홀수]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
