@@ -83,6 +83,8 @@
 <br>
 [[짝수와 홀수]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
 <br>
+[[평균 구하기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
