@@ -85,7 +85,8 @@
 <br>
 [[평균 구하기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0)
 <br>
-
+[[기사단원의 무기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0)
+<br>
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <br>
