@@ -87,6 +87,8 @@
 <br>
 [[기사단원의 무기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0)
 <br>
+[[문자열 나누기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0)
+<br>
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <br>
