@@ -89,7 +89,9 @@
 <br>
 [[문자열 나누기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0)
 <br>
-[[문자열 나누기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
+[[수박수박수박수박수?]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
+<br>
+[[예산]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%98%88%EC%82%B0)
 <br>
 
 ### level 2
