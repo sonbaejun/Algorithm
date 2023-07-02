@@ -93,6 +93,8 @@
 <br>
 [[예산]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%98%88%EC%82%B0)
 <br>
+[[달리기 경주]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
