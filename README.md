@@ -95,6 +95,8 @@
 <br>
 [[달리기 경주]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC)
 <br>
+[[제일 작은 수 제거하기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
