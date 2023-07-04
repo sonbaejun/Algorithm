@@ -97,6 +97,8 @@
 <br>
 [[제일 작은 수 제거하기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 <br>
+[[서울에서 김서방 찾기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
