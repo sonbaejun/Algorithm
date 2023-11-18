@@ -100,6 +100,12 @@
 [[서울에서 김서방 찾기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
 <br>
 [[삼총사]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%82%BC%EC%B4%9D%EC%82%AC)
+<br>
+[[2016년]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/2016%EB%85%84)
+<br>
+[[둘만의 암호]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8)
+<br>
+
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <br>
