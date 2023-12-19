@@ -129,6 +129,8 @@
 <br>
 [[올바른 괄호]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
 <br>
+[[구명보트]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
+<br>
 
 ### level 3
 [[단속 카메라]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)
