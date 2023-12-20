@@ -105,6 +105,8 @@
 <br>
 [[둘만의 암호]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8)
 <br>
+[[모의고사]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+<br>
 
 ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
@@ -130,6 +132,8 @@
 [[올바른 괄호]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
 <br>
 [[구명보트]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
+<br>
+[[카펫]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B9%B4%ED%8E%AB)
 <br>
 
 ### level 3
