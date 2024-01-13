@@ -2,7 +2,7 @@
 
 ### ⌨️ Langauge
 
-- javascript, java
+- java, javascript 
 
 ## 🖥️ baekjoon
 
@@ -32,6 +32,8 @@
     [[4673]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver5/BJ4673.java)
     [[7568]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver5/BJ7568.java)
     [[9625]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver5/BJ9625.java)
+    <br>
+    [[수 정렬하기2]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/BAEKJOON/BOJ2751)
     
 ## 🍳 Programmers
 ### level 0
@@ -143,3 +145,20 @@
 <br>
 
 
+## 🍔 SWEA
+
+### D2
+[[최빈수 구하기]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1204)
+<br>
+[[파리퇴치]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA12712)
+<br>
+[[두개의 숫자열]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1959)
+<br>
+[[숫자 배열 회전]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1961)
+<br>
+[[스도쿠 검증]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1974)
+<br>
+
+### D3
+[[String]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1213)
+<br>
