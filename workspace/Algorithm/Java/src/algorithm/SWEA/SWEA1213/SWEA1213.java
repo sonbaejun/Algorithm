@@ -1,4 +1,4 @@
-package algorithm.SWEA;
+package algorithm.SWEA.SWEA1213;
 
 import java.io.FileInputStream;
 import java.io.InputStreamReader;

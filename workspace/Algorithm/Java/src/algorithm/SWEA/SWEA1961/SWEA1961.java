@@ -1,4 +1,4 @@
-package algorithm.SWEA;
+package algorithm.SWEA.SWEA1961;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

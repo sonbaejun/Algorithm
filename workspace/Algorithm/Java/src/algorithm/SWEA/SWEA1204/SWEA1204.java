@@ -1,4 +1,4 @@
-package algorithm.SWEA;
+package algorithm.SWEA.SWEA1204;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -11,13 +11,14 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class SWEA1974 {
+public class SWEA1204 {
     
     public static void main(String[] args) throws Exception {
         
         /**
          * 0. 입력파일 읽어들이기
          */
+        System.setIn(new FileInputStream("1204_input.txt"));
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         
         // 결과를 한 번에 출력하기 위한 StringBuilder
