@@ -18,6 +18,8 @@
     [[4948]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver2/BJ4948.java)
   - ### silver3
     [[1966]](https://github.com/sonbaejun/Algorithm/tree/master/baekjoon/silver/silver3/BJ1966)
+    <br>
+    [[피보나치 수의 확장]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/BAEKJOON/BOJ1788)
   - ### silver4
     [[10773]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver4/BJ10773.java)
     [[11047]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver4/BJ11047.java)
@@ -165,4 +167,6 @@
 
 ### D3
 [[String]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1213)
+<br>
+[[8각탐색]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA2008)
 <br>
