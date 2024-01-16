@@ -10,7 +10,6 @@
 
   - ### gold5
   - [[1015]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/gold/gold5/BJ1011.java)
-https:
 
 - ## ⬜ silver
   - ### silver1
