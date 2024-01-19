@@ -43,12 +43,12 @@
     [[수 정렬하기2]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/BAEKJOON/BOJ2751)
     
 ## 🍳 Programmers
-### level 0
+- ### level 0
 [[다음에 올 숫자]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level0/%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90)
 <br>
 [[더 크게 합치기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level0/%EB%8D%94%20%ED%81%AC%EA%B2%8C%20%ED%95%A9%EC%B9%98%EA%B8%B0)
 
-### level 1
+- ### level 1
 [[명예의 전당1]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B91)
 <br>
 [[숫자 문자열과 영단어(2021 카카오 채용연계형 인턴십)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
@@ -117,7 +117,7 @@
 [[모의고사]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 <br>
 
-### level 2
+- ### level 2
 [[최솟값 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 <br>
 [[k진수에서 소수 구하기(2022 KAKAO BLIND RECRUITMENT)]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0)
@@ -149,7 +149,7 @@
 [[피보나치 수]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/Programmers/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98)
 <br>
 
-### level 3
+- ### level 3
 [[단속 카메라]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)
 <br>
 [[정수삼각형]](https://github.com/sonbaejun/Algorithm/tree/master/programmers/level3/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95)
@@ -158,7 +158,7 @@
 
 ## 🍔 SWEA
 
-### D2
+- ### D2
 [[최빈수 구하기]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1204)
 <br>
 [[파리퇴치]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA12712)
@@ -170,7 +170,7 @@
 [[스도쿠 검증]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1974)
 <br>
 
-### D3
+- ### D3
 [[String]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA1213)
 <br>
 [[8각탐색]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/SWEA/SWEA2008)
