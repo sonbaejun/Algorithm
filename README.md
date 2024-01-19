@@ -21,6 +21,9 @@
     [[16953]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver2/BJ16953.java)
     [[20364]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver2/BJ20364.java)
     [[4948]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver2/BJ4948.java)
+    <br>
+    [[색종이 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/BAEKJOON/BOJ2630)
+    <br>
   - ### silver3
     [[1966]](https://github.com/sonbaejun/Algorithm/tree/master/baekjoon/silver/silver3/BJ1966)
     <br>
