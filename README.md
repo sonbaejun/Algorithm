@@ -27,6 +27,8 @@
   - ### silver3
     [[1966]](https://github.com/sonbaejun/Algorithm/tree/master/baekjoon/silver/silver3/BJ1966)
     <br>
+    [[1로 만들기]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/BAEKJOON/BOJ1463)
+    <br>
     [[피보나치 수의 확장]](https://github.com/sonbaejun/Algorithm/tree/master/workspace/Algorithm/Java/src/algorithm/BAEKJOON/BOJ1788)
   - ### silver4
     [[10773]](https://github.com/sonbaejun/Algorithm/blob/master/baekjoon/silver/silver4/BJ10773.java)
